@@ -1,0 +1,12 @@
+.btn1{
+    background: linear-gradient(#f029d5, #8a2be2);
+    color: #fff;
+    border-radius: 2.5rem;
+    width: 129%;
+    font-size: 130%;
+    border-color: #fff;
+}
+.btncontainer{
+    display: flex;
+    justify-content: space-around;
+}

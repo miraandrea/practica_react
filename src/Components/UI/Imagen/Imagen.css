@@ -1,0 +1,9 @@
+.imagen{
+    width: 90%;
+}
+.imagen:hover{
+    filter:grayscale(90%) ;
+}
+hr{
+    width: 90%;
+}
