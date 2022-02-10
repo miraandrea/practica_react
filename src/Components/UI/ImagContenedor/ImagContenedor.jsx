@@ -1,5 +1,6 @@
 import React from 'react';
 import img from './ImgCont/images.jpg'
+import './ImagContenedor.css'
 
 export const ImagContenedor = () => {
   return (
